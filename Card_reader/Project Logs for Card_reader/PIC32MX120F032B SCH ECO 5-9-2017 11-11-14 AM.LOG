@@ -1,0 +1,6 @@
+Change Value of Parameter Fabricant in Part U2 Old= New=MICROCHIP
+Change Value of Parameter Fournisseur in Part U2 Old= New=Farnell
+Change Value of Parameter RefFabricant in Part U2 Old= New=Gregoire
+Change Value of Parameter RefFournisseur in Part U2 Old= New=Gregoire
+Added Parameter Fabricant=WALSIN to Part C1
+Added Parameter Fabricant=WALSIN to Part C2

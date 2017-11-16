@@ -1,0 +1,27 @@
+Project Outputs Generation Report
+---------------------------------
+Start Output Generation At 3:00:43 PM On 6/20/2017
+
+Output: Gerber Files
+Type  : Gerber
+From  : Variant [[No Variations]] of PCB Document [Card_reader2.PcbDoc]
+   Generated File[Card_reader2.GTL]
+   Generated File[Card_reader2.GBL]
+   Generated File[Card_reader2.GPB]
+   Generated File[Card_reader2.GPT]
+   Generated File[Card_reader2.GTO]
+   Generated File[Card_reader2.GTP]
+   Generated File[Card_reader2.GTS]
+   Generated File[Card_reader2.GBS]
+   Generated File[Card_reader2.GBP]
+   Generated File[Card_reader2.GBO]
+   Generated File[Card_reader2.GKO]
+   Generated File[Card_reader2.RUL]
+   Generated File[Card_reader2.EXTREP]
+   Generated File[Card_reader2.REP]
+
+
+Files Generated   : 14
+Documents Printed : 0
+
+Finished Output Generation At 3:00:47 PM On 6/20/2017

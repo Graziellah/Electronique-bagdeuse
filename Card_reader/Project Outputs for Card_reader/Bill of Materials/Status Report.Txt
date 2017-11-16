@@ -1,0 +1,14 @@
+Project Outputs Generation Report
+---------------------------------
+Start Output Generation At 2:09:00 PM On 6/20/2017
+
+Output: AuthenticationCentral (PoC) BOM
+Type  : BOM
+From  : Variant [[No Variations]] of Project [Card_reader.PrjPcb]
+   Generated File[AuthenticationCentral (PoC) BOM-Card_reader.xls]
+
+
+Files Generated   : 1
+Documents Printed : 0
+
+Finished Output Generation At 2:09:07 PM On 6/20/2017

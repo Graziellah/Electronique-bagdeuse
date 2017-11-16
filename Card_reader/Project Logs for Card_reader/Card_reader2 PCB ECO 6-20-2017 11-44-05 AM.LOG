@@ -1,0 +1,16 @@
+Removed Pin From Net: NetName=NetR3_1 Pin=R13-2
+Removed Pin From Net: NetName=GND Pin=R15-1
+Removed Member From Class: ClassName=Designator Member=R4
+Removed Member From Class: ClassName=Designator Member=R13
+Removed Member From Class: ClassName=Designator Member=R15
+Change Component Comment : Designator=R3 Old Comment=27K New Comment=28K
+Change Component Comment : Designator=R14 Old Comment=150R New Comment=8.45K
+Added Pin To Net: NetName=GND Pin=R14-1
+Added Pin To Net: NetName=NetR3_1 Pin=R14-2
+Added Pin To Net: NetName=NetR3_1 Pin=U4-3
+Added Room: Name=Designator
+Added Room: Name=Flash
+Added Room: Name=LCD
+Added Room: Name=PIC
+Added Room: Name=Reader
+Added Room: Name=Relay

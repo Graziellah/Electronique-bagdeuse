@@ -1,0 +1,17 @@
+Designator Footprint               Mid X         Mid Y         Ref X         Ref Y         Pad X         Pad Y TB      Rotation Comment        
+
+C5         CAP_0603             82.354mm      14.013mm      82.354mm      14.013mm      82.354mm      13.163mm  T         90.00 10uF           
+U6         SOIC_8                15.24mm      50.546mm       15.24mm      50.546mm      13.335mm      47.911mm  T         90.00 SST26VF032B-104I/SM
+U5         Relay                  74.2mm     79.5335mm          66mm     64.5335mm        68.2mm     67.5335mm  T        270.00 Relay          
+U4         SOT_(6)             65.7821mm      29.285mm     65.7821mm      29.285mm     64.8321mm      27.935mm  T         90.00 LMR16006       
+U3         Bornier_6_pin         20.32mm      91.567mm       13.97mm      91.567mm       26.67mm      91.567mm  T        180.00 LXM-R11_1      
+U2         SOIC_(28)             21.59mm        38.1mm       21.59mm        38.1mm      13.335mm        33.4mm  T         90.00 PIC32MX220F032B
+U1         LCD_(Only_header)       4.699mm      41.021mm       2.699mm      94.471mm       4.699mm      21.971mm  T         90.00 FDCC1602L-NSWBBW-91LE
+Q3         TO-236AB            55.5552mm     80.1688mm     55.5552mm     80.1688mm     54.5552mm     81.1188mm  T         90.00 2N7002         
+Q2         TO-236AB            15.0349mm     80.8532mm     15.0349mm     80.8532mm     14.0849mm     79.8532mm  T        180.00 2N7002         
+Q1         TO-236AB            19.4115mm     80.8532mm     19.4115mm     80.8532mm     18.4615mm     79.8532mm  T        180.00 2N7002         
+j3         BORNIER_2_PIN        90.777mm     67.0052mm      89.507mm     65.7352mm      89.507mm     65.7352mm  T         90.00 Bornier 2 pin  
+J2         Header_6_pin             49mm      94.667mm          49mm      94.667mm       55.35mm      94.667mm  T        180.00 Serial         
+D4         SMA/DO-214AC_21        73.7mm         4.7mm        73.7mm         4.7mm        73.7mm       2.975mm  T         90.00 GF1A           
+D3         SMA/DO-214AC_21     60.3652mm     78.4438mm     60.3652mm     78.4438mm     60.3652mm     80.1688mm  T        270.00 GF1A           
+

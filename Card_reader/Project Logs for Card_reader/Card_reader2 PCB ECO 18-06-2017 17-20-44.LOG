@@ -1,0 +1,24 @@
+Removed Pin From Net: NetName=V3P3 Pin=C2-2
+Removed Pin From Net: NetName=V3P3 Pin=U2-28
+Removed Pin From Net: NetName=NetC7_2 Pin=U4-4
+Change Component Library : Designator=U4 Old Library=Schlib1.SchLib New Library=Card_reader.SchLib
+Change Component Kind : Designator=U4 Old Kind=Standard (No BOM) New Kind=Standard
+Change component parameters: Designator = "U4"; Footprint = "SOT (6)"; UniqueID = "\RSBLNWXF\FMHIWPQR"
+Change component parameters. Clean all parameters for all variants
+Change component parameters (AddParameter): Name = "Fabricant"; Value = "Texas Instruments"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Fournisseur"; Value = "Farnell"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "RefFabricant"; Value = "LMR16006YDDC"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "RefFournisseur"; Value = "2455134"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=NetC7_2 Pin=C2-2
+Added Pin To Net: NetName=V12 Pin=D3-2
+Added Pin To Net: NetName=NetC7_2 Pin=U2-28
+Added Pin To Net: NetName=NetC7_2 Pin=U4-6
+Added Pin To Net: NetName=V12 Pin=U5-A1
+Change Net Name : Old Net Name=NetC7_2 New Net Name=V3P3A
+Change Net Name : Old Net Name=ROUT New Net Name=NetD3_1
+Added Room: Name=Designator
+Added Room: Name=Flash
+Added Room: Name=LCD
+Added Room: Name=PIC
+Added Room: Name=Reader
+Added Room: Name=Relay

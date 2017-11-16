@@ -1,0 +1,22 @@
+Removed Pin From Net: NetName=PGD Pin=U2-3
+Removed Pin From Net: NetName=DB2 Pin=U2-4
+Removed Pin From Net: NetName=R/W Pin=U2-5
+Removed Pin From Net: NetName=PGC Pin=U2-10
+Change Component Kind : Designator=R14 Old Kind=Standard (No BOM) New Kind=Standard
+Change Component Kind : Designator=R3 Old Kind=Standard (No BOM) New Kind=Standard
+Added Pin To Net: NetName=DB2 Pin=U2-3
+Added Pin To Net: NetName=PGD Pin=U2-4
+Added Pin To Net: NetName=PGC Pin=U2-5
+Added Pin To Net: NetName=R/W Pin=U2-10
+Added Member To Class: ClassName=Designator Member=Component C5 10uF
+Added Member To Class: ClassName=Designator Member=Component D1 Green LED
+Added Member To Class: ClassName=Designator Member=Component R2 470R
+Added Member To Class: ClassName=Designator Member=Component R3 28K
+Added Member To Class: ClassName=Designator Member=Component R12 20R
+Added Member To Class: ClassName=Designator Member=Component R14 8.45K
+Added Room: Name=Designator
+Added Room: Name=Flash
+Added Room: Name=LCD
+Added Room: Name=PIC
+Added Room: Name=Reader
+Added Room: Name=Relay

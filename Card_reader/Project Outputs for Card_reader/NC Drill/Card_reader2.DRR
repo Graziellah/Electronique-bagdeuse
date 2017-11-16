@@ -1,0 +1,22 @@
+---------------------------------------------------------------------------
+NCDrill File Report For: Card_reader2.PcbDoc   6/20/2017  2:51:04 PM
+---------------------------------------------------------------------------
+
+Layer Pair : Top Layer to Bottom Layer
+ASCII RoundHoles File : Card_reader2.TXT
+
+Tool         Hole Size           Hole Type     Hole Count Plated       Tool Travel
+---------------------------------------------------------------------------
+T1        0.3mm (11.811mil)        Round          37               281.80 mm (11.09 Inch)
+T2        0.5mm (19.685mil)        Round          4                45.92 mm (1.81 Inch)
+T3        0.9mm (35.433mil)        Round          6                13.00 mm (0.51 Inch)
+T4        1mm (39.37mil)           Round          30               210.48 mm (8.29 Inch)
+T5        1.1mm (43.307mil)        Round          2                2.54 mm (0.10 Inch)
+T6        1.6mm (62.992mil)        Round          4                51.38 mm (2.02 Inch)
+T7        3mm (118.11mil)          Round          2                5.77 mm (0.23 Inch)
+T8        3.3mm (129.921mil)       Round          2                10.16 mm (0.40 Inch)
+T9        3.5mm (137.795mil)       Round          1                0.00 mm (0.00 Inch)
+---------------------------------------------------------------------------
+Totals                                            88               621.05 mm (24.45 Inch)
+
+Total Processing Time (hh:mm:ss) : 00:00:00

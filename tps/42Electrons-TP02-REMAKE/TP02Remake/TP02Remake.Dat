@@ -1,0 +1,18 @@
+Field=Quantity~Integer~Quantity~133|Field=Comment~String~Comment~133|Field=Description~String~Description~133|Field=Footprint~String~Footprint~133|Field=Fabricant~String~Fabricant~133|Field=Fournisseur~String~Fournisseur~133|Field=Precision~String~Precision~133|Field=RefFabricant~String~RefFabricant~133|Field=RefFournisseur~String~RefFournisseur~133|Field=LogicalDesignator~String~LogicalDesignator~177|ReportField=Currency~<none>|ReportField=ProductionQuantity~1|ReportField=ProjectFileName~TP02Remake.PrjPcb|ReportField=ProjectFullPath~C:\Users\bocal\Documents\Altium\42-electrons\tps\42Electrons-TP02-REMAKE\TP02Remake\TP02Remake.PrjPcb|ReportField=Title~Bill of Materials For Project [TP02Remake.PrjPcb] (No PCB Document Selected)|ReportField=TotalQuantity~36|ReportField=ReportTime~1:38:18 PM|ReportField=ReportDate~2/14/2017|ReportField=ReportDateTime~2/14/2017 1:38:18 PM|ReportField=OutputName~Bill of Materials|ReportField=OutputType~BOM_PartType|ReportField=GeneratorName~BOM|ReportField=GeneratorDescription~Bill of Materials|ReportField=VariantName~None|ReportField=Address1~|ReportField=Address2~|ReportField=Address3~|ReportField=Address4~|ReportField=Application_BuildNumber~|ReportField=ApprovedBy~|ReportField=Author~|ReportField=CheckedBy~|ReportField=CompanyName~|ReportField=ConfigurationParameters~|ReportField=ConfiguratorName~|ReportField=CurrentDate~2/14/2017|ReportField=CurrentTime~1:18:25 PM|ReportField=Date~|ReportField=DocumentFullPathAndName~C:\Users\bocal\Documents\Altium\42-electrons\tps\42Electrons-TP02-REMAKE\TP02Remake\TP2.SchDoc|ReportField=DocumentName~TP2.SchDoc|ReportField=DocumentNumber~1|ReportField=DrawnBy~|ReportField=Engineer~|ReportField=ImagePath~|ReportField=IsUserConfigurable~|ReportField=ModifiedDate~2/14/2017|ReportField=Organization~|ReportField=PageSetup~Record=PageOptions|CenterHorizontal=True|CenterVertical=True|PrintScale=1.00|XCorrection=1.00|YCorrection=1.00|PrintKind=0|BorderSize=5000000|LeftOffset=0|BottomOffset=0|Orientation=2|PaperLength=1000|PaperWidth=1000|Scale=100|PaperSource=7|PrintQuality=-3|MediaType=1|DitherType=10|PrintScaleMode=1|PaperKind=Letter|PaperIndex=1|ReportField=ProjectName~TP02Remake.PrjPcb|ReportField=Range2~.3|ReportField=Revision~|ReportField=Rule~|ReportField=SheetNumber~1|ReportField=SheetTotal~|ReportField=Time~|ReportField=Title~|ReportField=VersionControl_RevNumber~|ReportField=DataSourceFileName~TP02Remake.PrjPcb|ReportField=DataSourceFullPath~C:\Users\bocal\Documents\Altium\42-electrons\tps\42Electrons-TP02-REMAKE\TP02Remake\TP02Remake.PrjPcb
+7|100nF|Capacitor|CAPC1608N|||50V X5R|||C1, C2, C3, C4, C5, C6, C15
+2|20pF|Capacitor|CAPC1005N|||50V X5R|||C7, C8
+4|10uF|Capacitor|CAPC2012N|TDK|Farnell|6,3V X5R|C2012X5R0J106M/1.25|2309029|C9, C11, C12, C13
+2|1uF|Capacitor|CAPC1608N|||6,3V X5R|||C10, C14
+5|Green LED|Typical INFRARED GaAs LED|LED 0805|KINGBRIGHT|Farnell||KPT-2012SGC|2099239|D1, D1, D1, D1, D4
+2|GF1A|Default Diode|SMA/DO-214AC_21|VISHAY|Farnell||GF1A-E3/67A|9549560|D2, D3
+1|600r|Inductor|INDC1608AN|Wurth|Farnell||742792651|1635706|FB1
+1|Program / Debug||||||||J1
+1|12V Main|Header, 2-Pin|PHOENIX_1985195|PHOENIX CONTACT|Farnell||PTSA 1.5/2-3,5-Z|1792769|P1
+1|12V Battery|Header, 2-Pin|PHOENIX_1985195|PHOENIX CONTACT|Farnell||PTSA 1.5/2-3,5-Z|1792769|P2
+1|1K|Potentiometer|PDB181-K415K-102A2|BOURNS|Farnell||PDB181-K415K-102A2|1823540|R1
+4|330r|Resistor|RESC1608N|||1%|||R2
+1|4.7k|Resistor|RESC1608N|||1%|||R3
+1|470r|Resistor|RESC1608N|||1%|||R4
+1|PIC32MX764F128H-I/PT|PIC32MX764F128H|QFP50P1200X1200X120-64|Microchip|Farnell||PIC32MX764F128H-I/PT|1971889|U1
+1|AP1117|1A LDO, 18V input, DPAK|TD03B_N|DIODES INC|Farnell||AP1117D33G-13|1825285|U2
+1|8MHz|Crystal Oscillator|XTAL139X50X45|FOX ELECTRONICS|Farnell||FOXSDLF/080-20|2063972|Y1

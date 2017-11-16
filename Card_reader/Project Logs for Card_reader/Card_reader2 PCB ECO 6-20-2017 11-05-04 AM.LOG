@@ -1,0 +1,11 @@
+Removed Pin From Net: NetName=V3P3A Pin=C2-2
+Removed Pin From Net: NetName=V3P3A Pin=U2-28
+Added Pin To Net: NetName=V3P3 Pin=C2-2
+Added Pin To Net: NetName=V3P3 Pin=U2-28
+Change Net Name : Old Net Name=V3P3A New Net Name=NetC7_2
+Added Room: Name=Designator
+Added Room: Name=Flash
+Added Room: Name=LCD
+Added Room: Name=PIC
+Added Room: Name=Reader
+Added Room: Name=Relay

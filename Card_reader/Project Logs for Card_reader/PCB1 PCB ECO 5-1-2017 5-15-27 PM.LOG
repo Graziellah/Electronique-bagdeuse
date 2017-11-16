@@ -1,0 +1,79 @@
+Added Component: Designator=C7(RAD-0.3)
+Added Component: Designator=C8(RAD-0.3)
+Added Component: Designator=C9(RAD-0.3)
+Added Component: Designator=D2(SOT-23_N)
+Added Component: Designator=D3(SMC)
+Added Component: Designator=L1(0402-A)
+Added Component: Designator=R3(AXIAL-0.3)
+Added Component: Designator=R4(AXIAL-0.3)
+Added Component: Designator=R5(AXIAL-0.3)
+Added Component: Designator=R6(AXIAL-0.3)
+Added Component: Designator=R7(AXIAL-0.3)
+Added Component: Designator=R8(AXIAL-0.3)
+Added Component: Designator=R9(AXIAL-0.3)
+Added Pin To Net: NetName=+3.3V Pin=C9-1
+Added Pin To Net: NetName=+3.3V Pin=L1-2
+Added Pin To Net: NetName=+3.3V Pin=R3-2
+Added Net: Name=+3.3V
+Added Pin To Net: NetName=+12V Pin=C8-1
+Added Pin To Net: NetName=+12V Pin=D3-2
+Added Net: Name=+12V
+Added Pin To Net: NetName=DATA0 Pin=R5-1
+Added Pin To Net: NetName=DATA0 Pin=R6-2
+Added Net: Name=DATA0
+Added Pin To Net: NetName=DATA1 Pin=R7-1
+Added Pin To Net: NetName=DATA1 Pin=R8-2
+Added Net: Name=DATA1
+Added Net: Name=DB0
+Added Net: Name=DB1
+Added Net: Name=DB2
+Added Net: Name=DB3
+Added Pin To Net: NetName=ENABLE RELAY Pin=R9-1
+Added Net: Name=ENABLE RELAY
+Added Pin To Net: NetName=GND Pin=C8-2
+Added Pin To Net: NetName=GND Pin=C9-2
+Added Pin To Net: NetName=GND Pin=D2-1
+Added Pin To Net: NetName=GND Pin=R4-1
+Added Pin To Net: NetName=GND Pin=R6-1
+Added Pin To Net: NetName=GND Pin=R8-1
+Added Net: Name=GND
+Added Net: Name=GREEN
+Added Net: Name=MCLR
+Added Net: Name=NetC5_2
+Added Pin To Net: NetName=NetC7_1 Pin=C7-1
+Added Net: Name=NetC7_1
+Added Pin To Net: NetName=NetC7_2 Pin=C7-2
+Added Pin To Net: NetName=NetC7_2 Pin=D2-3
+Added Pin To Net: NetName=NetC7_2 Pin=L1-1
+Added Net: Name=NetC7_2
+Added Net: Name=NetD1_1
+Added Pin To Net: NetName=NetD3_1 Pin=D3-1
+Added Net: Name=NetD3_1
+Added Net: Name=NetQ1_D
+Added Net: Name=NetQ2_D
+Added Pin To Net: NetName=NetQ3_G Pin=R9-2
+Added Net: Name=NetQ3_G
+Added Pin To Net: NetName=NetR3_1 Pin=R3-1
+Added Pin To Net: NetName=NetR3_1 Pin=R4-2
+Added Net: Name=NetR3_1
+Added Pin To Net: NetName=NetR5_2 Pin=R5-2
+Added Net: Name=NetR5_2
+Added Pin To Net: NetName=NetR7_2 Pin=R7-2
+Added Net: Name=NetR7_2
+Added Net: Name=PGC
+Added Net: Name=PGD
+Added Net: Name=RED
+Added Net: Name=V3P3A
+Added Net: Name=V3P3
+Added Net: Name=X1
+Added Net: Name=X2
+Added Class: Name=Designator
+Added Class: Name=LCD
+Added Class: Name=PIC
+Added Class: Name=Reader
+Added Class: Name=Relay
+Added Room: Name=Designator
+Added Room: Name=LCD
+Added Room: Name=PIC
+Added Room: Name=Reader
+Added Room: Name=Relay

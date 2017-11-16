@@ -1,0 +1,54 @@
+# Reference list
+
+- Microchip
+    - [ ] Dependancies
+        - RFID reader
+        - LCD Screen
+    - [ ] Memory (KBs)
+        - Tags address ((16 x 8) bytes)
+            - 12 standard UID
+            - 4 maintainers UID
+        - Firmware (32 KiloBytes)
+    - [ ] Speed (MHz)
+        - /
+    - [ ] Architecture (Bits)
+    - [ ] CPU (Type)
+    - [ ] Core (Type)
+    - [ ] RAM (Bytes)
+    - [ ] Auxilliary flash (KBs)
+    - [ ] Temperature range
+    - [ ] Operation voltage range
+    - [ ] DMA channel
+    - [ ] A/D channel
+    - [ ] Max A/D resolution (Bits)
+    - [ ] USB
+    - [ ] Comparators
+    - [ ] Timers
+    - [ ] Protocols (UART/SPI/I2C)
+    - [ ] Codec interface (I25,AC97)
+    - [ ] Peripheral Pins Select (PPS) Crossbar
+    - [ ] EMI
+    - [ ] SQI
+    - [ ] Crypto Engine
+    - [ ] CTMU
+    - [ ] CAN modules
+    - [ ] Type of CAN module
+    - [ ] Ethernet
+    - [ ] Pin count
+    - [ ] Packages
+
+- [ ] How to determine the MicroController needed
+    - [ ] Determine the MicroController needed
+
+- [ ] What are the specifications of the project
+    - [ ] RFID specifications
+        - [ ] Tags
+            - [ ] 8 Bytes UID
+        - [ ] Reader
+    - [ ] Use the Gregoire's reference to determine what protocol to use
+
+- [ ] Protocol list
+    - [ ] RFID
+        - [ ] Wiegand
+    - [ ] LCD Screen interface
+        - [ ] UART

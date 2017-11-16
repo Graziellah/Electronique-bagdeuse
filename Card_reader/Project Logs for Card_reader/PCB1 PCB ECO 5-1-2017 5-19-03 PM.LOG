@@ -1,0 +1,14 @@
+Added Component: Designator=U2(SOIC (28))
+Added Pin To Net: NetName=GND Pin=U2-8
+Added Pin To Net: NetName=V3P3 Pin=U2-13
+Added Pin To Net: NetName=ENABLE RELAY Pin=U2-15
+Added Pin To Net: NetName=GND Pin=U2-19
+Added Pin To Net: NetName=NetC5_2 Pin=U2-20
+Added Pin To Net: NetName=GND Pin=U2-27
+Added Pin To Net: NetName=V3P3A Pin=U2-28
+Added Member To Class: ClassName=PIC Member=Component U2 PIC32MX120F032B
+Added Room: Name=Designator
+Added Room: Name=LCD
+Added Room: Name=PIC
+Added Room: Name=Reader
+Added Room: Name=Relay

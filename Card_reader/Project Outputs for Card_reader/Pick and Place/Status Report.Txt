@@ -1,0 +1,14 @@
+Project Outputs Generation Report
+---------------------------------
+Start Output Generation At 2:05:17 PM On 6/20/2017
+
+Output: Generates pick and place files
+Type  : Pick Place
+From  : Variant [[No Variations]] of PCB Document [Card_reader2.PcbDoc]
+   Generated File[Pick and Place.txt]
+
+
+Files Generated   : 1
+Documents Printed : 0
+
+Finished Output Generation At 2:05:18 PM On 6/20/2017

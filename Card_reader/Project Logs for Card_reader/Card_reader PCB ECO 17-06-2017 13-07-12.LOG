@@ -1,0 +1,14 @@
+Removed Pin From Net: NetName=RIN Pin=D3-2
+Removed Pin From Net: NetName=RIN Pin=U3-1
+Removed Pin From Net: NetName=RIN Pin=U5-A1
+Change Net Name : Old Net Name=RIN New Net Name=V12
+Added Pin To Net: NetName=RIN Pin=D3-2
+Added Pin To Net: NetName=RIN Pin=U3-1
+Added Pin To Net: NetName=RIN Pin=U5-A1
+Added Net: Name=RIN
+Added Room: Name=Designator
+Added Room: Name=Flash
+Added Room: Name=LCD
+Added Room: Name=PIC
+Added Room: Name=Reader
+Added Room: Name=Relay

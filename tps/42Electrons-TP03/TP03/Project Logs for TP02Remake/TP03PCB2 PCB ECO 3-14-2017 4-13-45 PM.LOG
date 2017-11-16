@@ -1,0 +1,23 @@
+Removed Pin From Net: NetName=V3P3A Pin=R1-1
+Removed Pin From Net: NetName=3 Pin=R1-3
+Removed Pin From Net: NetName=LED0 Pin=R2_LED0-2
+Removed Pin From Net: NetName=LED1 Pin=R2_LED1-2
+Removed Pin From Net: NetName=LED2 Pin=R2_LED2-2
+Removed Pin From Net: NetName=LED3 Pin=R2_LED3-2
+Change Component Comment : Designator=P2 Old Comment=BAT. New Comment=12V Battery
+Change Component Comment : Designator=P1 Old Comment=MAIN New Comment=12V Main
+Change Component Description : Designator=U2 Old Description=1A LDO, 18V input, DPAK New Description=
+Change Component Library : Designator=U2 Old Library=Schlib1.SchLib New Library=TP02_SCHLib.SchLib
+Added Pin To Net: NetName=3 Pin=R1-1
+Added Pin To Net: NetName=V3P3A Pin=R1-2
+Change Net Name : Old Net Name=3 New Net Name=GND
+Added Pin To Net: NetName=NetR1_3 Pin=R1-3
+Added Pin To Net: NetName=NetR1_3 Pin=U1-14
+Added Net: Name=NetR1_3
+Added Room: Name=LED0
+Added Room: Name=LED1
+Added Room: Name=LED2
+Added Room: Name=LED3
+Added Room: Name=PIC
+Added Room: Name=POWER
+Added Room: Name=TP2
